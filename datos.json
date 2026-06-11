@@ -1,0 +1,154 @@
+{
+  "atracciones": [
+    {
+      "id": 5,
+      "nombre": "Carrusel",
+      "zona": "INFANTIL",
+      "tiempoEspera": 5,
+      "operativa": true
+    },
+    {
+      "id": 11,
+      "nombre": "CascadaMágica",
+      "zona": "ACUATICA",
+      "tiempoEspera": 15,
+      "operativa": true
+    },
+    {
+      "id": 8,
+      "nombre": "CastilloInflable",
+      "zona": "INFANTIL",
+      "tiempoEspera": 12,
+      "operativa": true
+    },
+    {
+      "id": 16,
+      "nombre": "CriptaDelVampiro",
+      "zona": "TERROR",
+      "tiempoEspera": 20,
+      "operativa": true
+    },
+    {
+      "id": 17,
+      "nombre": "FuenteSodas",
+      "zona": "COMIDA",
+      "tiempoEspera": 5,
+      "operativa": true
+    },
+    {
+      "id": 19,
+      "nombre": "HeladeríaPolar",
+      "zona": "COMIDA",
+      "tiempoEspera": 8,
+      "operativa": true
+    },
+    {
+      "id": 13,
+      "nombre": "HotelEmbrujado",
+      "zona": "TERROR",
+      "tiempoEspera": 30,
+      "operativa": true
+    },
+    {
+      "id": 15,
+      "nombre": "MansiónSiniestra",
+      "zona": "TERROR",
+      "tiempoEspera": 35,
+      "operativa": true
+    },
+    {
+      "id": 1,
+      "nombre": "MontañaRusa",
+      "zona": "AVENTURA",
+      "tiempoEspera": 40,
+      "operativa": true
+    },
+    {
+      "id": 10,
+      "nombre": "OlasArtificiales",
+      "zona": "ACUATICA",
+      "tiempoEspera": 20,
+      "operativa": true
+    },
+    {
+      "id": 20,
+      "nombre": "PalomitasMágicas",
+      "zona": "COMIDA",
+      "tiempoEspera": 3,
+      "operativa": true
+    },
+    {
+      "id": 18,
+      "nombre": "PizzasDoñaMarta",
+      "zona": "COMIDA",
+      "tiempoEspera": 15,
+      "operativa": true
+    },
+    {
+      "id": 12,
+      "nombre": "RíoLento",
+      "zona": "ACUATICA",
+      "tiempoEspera": 10,
+      "operativa": true
+    },
+    {
+      "id": 4,
+      "nombre": "RíoSalvaje",
+      "zona": "AVENTURA",
+      "tiempoEspera": 30,
+      "operativa": true
+    },
+    {
+      "id": 7,
+      "nombre": "SillasVoladoras",
+      "zona": "INFANTIL",
+      "tiempoEspera": 10,
+      "operativa": true
+    },
+    {
+      "id": 9,
+      "nombre": "TobogánGigante",
+      "zona": "ACUATICA",
+      "tiempoEspera": 25,
+      "operativa": true
+    },
+    {
+      "id": 2,
+      "nombre": "TorreCaída",
+      "zona": "AVENTURA",
+      "tiempoEspera": 25,
+      "operativa": true
+    },
+    {
+      "id": 6,
+      "nombre": "Trencito",
+      "zona": "INFANTIL",
+      "tiempoEspera": 8,
+      "operativa": true
+    },
+    {
+      "id": 14,
+      "nombre": "TúnelDelMiedo",
+      "zona": "TERROR",
+      "tiempoEspera": 25,
+      "operativa": true
+    },
+    {
+      "id": 3,
+      "nombre": "VueloDelta",
+      "zona": "AVENTURA",
+      "tiempoEspera": 35,
+      "operativa": true
+    }
+  ],
+  "caminos": [
+    "MontañaRusa ↔ TobogánGigante (5 min)",
+    "MontañaRusa ↔ FuenteSodas (8 min)",
+    "Carrusel ↔ FuenteSodas (3 min)",
+    "TobogánGigante ↔ OlasArtificiales (2 min)",
+    "HotelEmbrujado ↔ TúnelDelMiedo (4 min)",
+    "TúnelDelMiedo ↔ MansiónSiniestra (6 min)"
+  ],
+  "totalAtracciones": 20,
+  "totalCaminos": 6
+}
